@@ -1,0 +1,29 @@
+<rdf:RDF
+  xmlns:rdf='http://www.w3.org/1999/02/22-rdf-syntax-ns#'
+  xmlns:vCard='http://www.w3.org/2001/vcard-rdf/3.0#'
+   >
+
+  <rdf:Description rdf:about="http://masterbigdata/fsbm/">
+    <vCard:MASTER>Master Bigdata</vCard:MASTER>
+	<vCard:Promotion>2020</vCard:Promotion>
+	<vCard:Faculte>FSBM</vCard:Faculte>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://masterbigdata/fst/">
+    <vCard:MASTER>Master MI</vCard:MASTER>
+	<vCard:Promotion>2019</vCard:Promotion>
+	<vCard:Faculte>FSTM</vCard:Faculte>
+  </rdf:Description>
+  
+  <rdf:Description rdf:about="http://masterbigdata/fstc/">
+    <vCard:MASTER>Master PI</vCard:MASTER>
+	<vCard:Promotion>2018</vCard:Promotion>
+	<vCard:Faculte>FSTC</vCard:Faculte>
+  </rdf:Description>
+
+  <rdf:Description rdf:about="http://masterbigdata/fsb/">
+    <vCard:MASTER>Master BTM</vCard:MASTER>
+	<vCard:Promotion>2017</vCard:Promotion>
+	<vCard:Faculte>FSTB</vCard:Faculte>
+  </rdf:Description>
+</rdf:RDF>
